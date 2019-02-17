@@ -54,11 +54,11 @@ Credits
 Contributors
 ------------
 
-* Andhitia Rama <andhitia.r@gmail.com>
+* Andhitia Rama <eng.amer.it@gmail.com>
 
 Maintainer
 ----------
 
-.. image:: https://opensynergy-indonesia.com/logo.png
-   :alt: OpenSynergy Indonesia
-   :target: https://opensynergy-indonesia.com
+.. image:: https://infosec.cu/logo.png
+   :alt: infoSec Yemen
+   :target: https:/infosec.us
